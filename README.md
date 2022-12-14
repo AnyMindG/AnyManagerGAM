@@ -1,0 +1,2 @@
+# AnyManagerGAM
+AnyManagerGAMSDK
